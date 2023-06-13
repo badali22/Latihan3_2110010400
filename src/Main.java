@@ -1,3 +1,7 @@
+
+import geometri.Lingkaran;
+import geometri.PersegiPanjang;
+
 public class Main { 
     public static void main(String[] args) { 
         // Membuat objek Lingkaran 
